@@ -1,0 +1,9 @@
+{
+    "homepage": "https://github.com/SIBIL7/sibil_s_type_and_speak",
+    "scripts": {
+        "deploy": "gh-pages -d dist"
+    },
+    "dependencies": {
+        "gh-pages": "^2.0.1"
+    }
+}
