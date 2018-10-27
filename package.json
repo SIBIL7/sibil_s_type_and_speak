@@ -1,5 +1,5 @@
 {
-    "homepage": "https://github.com/SIBIL7/sibil_s_type_and_speak",
+    "homepage": "https://SIBIL7.github.io/sibil_s_type_and_speak",
     "scripts": {
         "deploy": "gh-pages -d dist"
     },
